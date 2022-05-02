@@ -24,8 +24,8 @@ A website designed for faculty delivering courses at a College setting will be u
 2. Website back-end up and front-end designed and some static test pages tested in development environment
 3. Template to deliver presentations addded to the website designed and tested
 4. Tool for faculty to display its availability designed and tested
-5. Tool for allowing faculty to message groups designed and tested
-6. Tool for allowing students and groups to pick timeslots designed and tested
+5. Tool for allowing faculty to message groups designed and tested: [link](https://github.com/CAPSTONE-2022-2023/Group_00/blob/main/use_cases/group_messaging.md)
+6. Tool for allowing students and groups to pick timeslots designed and tested: [link](https://github.com/CAPSTONE-2022-2023/Group_00/blob/main/use_cases/picking_timeslot.md)
 
 ## 4. Deliverables
 
