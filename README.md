@@ -20,7 +20,7 @@ A website designed for faculty delivering courses at a College setting will be u
 
 ## 3. Milestones
 
-1. List of technological choices for front-end, back-end, database, and hosting/domain defined
+1. List of technological choices for front-end, back-end, database, and hosting/domain defined: [link](https://github.com/CAPSTONE-2022-2023/Group_00/blob/main/technical_details.md)
 2. Website back-end up and front-end designed and some static test pages tested in development environment
 3. Template to deliver presentations addded to the website designed and tested
 4. Tool for faculty to display its availability designed and tested
