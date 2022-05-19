@@ -14,9 +14,9 @@ This project aims at creating a website for a faculty member at a College settin
 
 Marcel, a faculty at Seneca, is planning to develop his own website to facilitate the delivery of his classes at Seneca College.
 
-### 2.1 Objectives
+<!-- ### 2.1 Objectives
 
-A website designed for faculty delivering courses at a College setting will be up and running prior to the beginning of the Fall terms with tools for delivering presentations, displaying the faculty's availability, as well as to allow students and groups to pick meeting timeslots.
+A website designed for faculty delivering courses at a College setting will be up and running prior to the beginning of the Fall terms with tools for delivering presentations, displaying the faculty's availability, as well as to allow students and groups to pick meeting timeslots. -->
 
 ## 3. Milestones
 
