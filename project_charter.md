@@ -12,7 +12,7 @@ This project aims at creating a website for a faculty member at a College settin
 
 ## 2. Overview
 
-Marcel, a faculty at Seneca, is planning to develop his own website to facilitate the delivery of his classes at Seneca College.
+Marcel, a faculty at Seneca, is developping his own website to facilitate the delivery of his classes at Seneca College.
 
 <!-- ### 2.1 Objectives
 
