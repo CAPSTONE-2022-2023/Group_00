@@ -10,3 +10,4 @@ This wesite will be created using Django at its back-end and employing a simple 
 | Front-End Developer | Marcel Jar|
 | Back-End Developer |  Marcel Jar|
 | Database Specialist | Marcel Jar|
+
